@@ -10,6 +10,8 @@ public class MainActivity extends AppCompatActivity {
 
     WebView webView;
 
+    // Test Log GitHub
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
